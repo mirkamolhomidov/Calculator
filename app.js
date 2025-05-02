@@ -16,9 +16,7 @@ let btnt = document.getElementById("buttont")
 let btnq = document.getElementById("buttonq")
 let btnc = document.getElementById("buttonc")
 let btn00 = document.getElementById("button00")
-btn1.onclick = () => {
-    todoTextInput.value = todoTextInput.value + '1'
-}
+
 btn2.onclick = () => {
     todoTextInput.value = todoTextInput.value + '2'
 }
